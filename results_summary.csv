@@ -1,0 +1,12 @@
+No,Test,H0,Statistic,Critical value,p-value,Decision
+1,Chi-square: Smoking vs Diabetes,Smoking has no effect on Diabetes,8.424,5.991,0.01481,Reject H0
+2,Chi-square: Smoking vs Hypertension,Smoking and Hypertension independent,0.274,5.991,0.8722,Accept H0 (Fail to reject)
+3,z-test: Mean BMI,mu = 24,2.609,1.96,0.009075,Reject H0
+4,z-test: Mean BP,mu = 120,4.385,1.96,1.162e-05,Reject H0
+5,t-test: BP Smoker vs Non-Smoker,Mean BP equal,0.451,1.975,0.6527,Accept H0 (Fail to reject)
+6,t-test: BMI Daily vs Never exercise,Mean BMI equal,-6.124,2.0,7.226e-08,Reject H0
+7,"t-test: BMI, small sample (n=15)",mu = 24,1.831,2.145,0.08841,Accept H0 (Fail to reject)
+8,ANOVA: Hypertension rate by Age group,All age-group means equal,6.064,2.418,0.000128,Reject H0
+9,ANOVA: Diabetes rate by Age group,All age-group means equal,2.322,2.418,0.05814,Accept H0 (Fail to reject)
+10,ANOVA: BMI by Age group,All age-group means equal,8.617,2.418,2.005e-06,Reject H0
+11,Pearson correlation: Age vs BMI,rho = 0,5.961,1.972,1.135e-08,Reject H0
