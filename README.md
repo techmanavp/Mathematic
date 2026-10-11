@@ -122,7 +122,7 @@ All tests use a significance level of **α = 0.05**.
 
 ## 📚 Theory Document
 
-[`Part-A_-_Theoretical_Foundation.pdf`](Part-A_-_Theoretical_Foundation.pdf) explains the core concepts with definitions:
+[`Part-A - Theoretical Foundation`](Part-A - Theoretical Foundation.pdf) explains the core concepts with definitions:
 
 | Concept | One-line summary |
 |---|---|
