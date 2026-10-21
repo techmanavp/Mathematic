@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/15UIdIp7gF6DvbeXlHkFHSd80Cc3kEpbp/view?usp=sharing">
-    <img src="assets/video_thumbnail.png" alt="Watch the project walkthrough" width="650">
+       <img src="video_thumbnail.png" alt="Watch the project walkthrough" width="650">
   </a>
   <br>
   <b>▶ <a href="https://drive.google.com/file/d/15UIdIp7gF6DvbeXlHkFHSd80Cc3kEpbp/view?usp=sharing">Watch the 8-minute project walkthrough</a></b>
