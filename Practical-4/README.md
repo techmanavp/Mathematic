@@ -28,7 +28,6 @@
 7. [Key Insights](#-key-insights)
 8. [Verification](#-verification-theory-vs-python)
 9. [Learning Outcomes](#-learning-outcomes)
-10. [Author]
 
 ---
 
